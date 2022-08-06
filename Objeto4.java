@@ -1,0 +1,2 @@
+public class Objeto4 {
+}
